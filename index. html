@@ -1,0 +1,12 @@
+<!doctype html>
+<head>
+   <title>My Portfolio</title>
+   <link rel= "stylesheet" href= "styles.CSS">
+</head>   
+<body>
+  <h1>Hi, I'm Godfrey Apollo</h1>
+  <p>A comp Sci student building cool stuff</p>
+  <p>Skills: HTML,CSS,Java</p>
+  <p>Contact: apollojunior97@gmail.com|<a href="https://github.com/Ap-o-llo">Github</a></p>
+  </body>
+  </html>
